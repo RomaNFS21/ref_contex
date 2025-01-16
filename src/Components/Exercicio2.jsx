@@ -32,6 +32,7 @@ function Exercicio2() {
   return (
     <div>
       <h1> Exercicio 2</h1>
+      <h2> Cronometro </h2>
       <p> Second(s): {seconds}</p>
       <button onClick={start}>Start</button>
       <button onClick={pause}>Pause</button>
