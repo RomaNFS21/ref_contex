@@ -12,12 +12,18 @@
 
 # Exercicio 3
 
+---
+
 15/01/25 EXERCICIO AULA 22
+
+# Exercicio 1
 
 - Solicitado para ser feito paginação
 - Realizado a instação da biblioteca **react route dom**
 - Criado os componentes para as paginas Home e About aonde em cada uma rederiza um titulo com seus respecitivos nomes
 - importado a **react route dom** no App.js e realizado a estruturação de paginas de Home e About
+
+# Exercicio 2
 
 - Criado componentes para sub paginas de Home (section1 e section2) e para About (Team e History) com seus respecitivos titulos para serem rederizados
 - adicionado nos componentes Home e About a route para suas sub paginas
