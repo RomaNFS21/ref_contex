@@ -12,6 +12,8 @@
 
 # Exercicio 3
 
+- Implementação do modo escuro pendente
+
 ---
 
 15/01/25 EXERCICIO AULA 22
@@ -27,3 +29,19 @@
 
 - Criado componentes para sub paginas de Home (section1 e section2) e para About (Team e History) com seus respecitivos titulos para serem rederizados
 - adicionado nos componentes Home e About a route para suas sub paginas
+
+---
+
+16/01/25 EXERCICIO AULA 23
+
+- Corrigido as configurações das rotas das sub paginas do Home e About
+- Criado nova pagina de componente Exercicios com link a partir do Home
+- Implementado Links nas paginas Home, About, Section 1 e 2, Exercicios, Team e Histoy para navegação pelas paginas
+
+![alt text](Prints/Home.png)
+![alt text](Prints/Sec1.png)
+![alt text](Prints/Sec2.png)
+![alt text](Prints/Exercicios.png)
+![alt text](Prints/About.png)
+![alt text](Prints/History.png)
+![alt text](Prints/Team.png)
